@@ -1,4 +1,5 @@
-##1. Pair with Target Sum (easy)- https://leetcode.com/problems/two-sum/
-##2. Remove Duplicates(easy)
+1. Pair with Target Sum (easy)- https://leetcode.com/problems/two-sum/
+2. Remove Duplicates(easy)
 
-   2.1. Remove duplicates from linked-list: https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+   2.1. Remove duplicates from Sorted-list I: https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+   2.2. Remove duplicates from Sorted-list II: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/
